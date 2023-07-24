@@ -1,0 +1,8 @@
+10-39-32 => first log message!
+10-39-32 => /home/gzhou8/mprpc/example/callee/userservice.cc-main-70
+10-50-30 => [(null)]first log message!
+10-50-30 => [(null)]/home/gzhou8/mprpc/example/callee/userservice.cc-main-70
+10-50-30 => [(null)]service_name : UserServiceRpc
+10-50-30 => [(null)]method_name : Login
+10-50-30 => [(null)]method_name : Register
+10-50-30 => [(null)]Rpc service start at ip : 127.0.0.1 port : 12000
